@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 665f73494d34266d2f581d701b400aae96405b9b
+source-git-commit: b434237a678e938db8d99796def77ce92902738c
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 18%
+source-wordcount: '56'
+ht-degree: 17%
 
 ---
 
@@ -28,3 +28,6 @@ ht-degree: 18%
          + [Documentatiemissie mogelijk](analytics/june2022/mission-possible.md)
       + Maart {#mar2022}
          + [Impliciete artikelen met gegevens verkopen](analytics/mar2022/stories-with-data.md)
++ Marketo {#marketo}
+   + Maart {#mar2023}
+      + [Hoe maak je [!DNL Adobe Marketo Engage] Inhoud schaalbaar](marketo/mar2023/templates-tokens-teamwork.md)
